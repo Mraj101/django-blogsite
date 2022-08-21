@@ -1,6 +1,6 @@
 # django-blogsite
 
-#create a virtualenv first 
+#create-a-virtualenv-first 
 ->pip install virtualenv    press enter
 
 
